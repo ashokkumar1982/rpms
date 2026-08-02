@@ -4,7 +4,6 @@
   "version": "0.1.0",
   "type": "module",
     "homepage": "https://ashokkumar1982.github.io/rpms",
-
   "scripts": {
     "dev": "vite",
     "build": "vite build",
