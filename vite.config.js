@@ -5,6 +5,6 @@ import react from '@vitejs/plugin-react'
 // e.g. "/rpms/" if the repo is deployed at https://username.github.io/rpms/
 export default defineConfig({
   plugins: [react()],
-  base: process.env.VITE_BASE_PATH || '/',
+  //base: process.env.VITE_BASE_PATH || '/',
    base: '/rpms/',
 })
